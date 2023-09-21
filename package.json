@@ -1,6 +1,6 @@
 {
   "name": "vite-lib-learn",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "main": "./dist/my-lib.umd.cjs",
   "module": "./dist/my-lib.js",
@@ -25,7 +25,14 @@
   "bugs": {
     "url": "https://github.com/metestapi/vite-lib-learn/issues"
   },
-  "keywords": ["some", "keywords", "to", "describe", "the", "package"],
+  "keywords": [
+    "some",
+    "keywords",
+    "to",
+    "describe",
+    "the",
+    "package"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
